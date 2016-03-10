@@ -1,3 +1,6 @@
 [submodule "extjs-by-example-customer-feedback-form"]
 	path = extjs-by-example-customer-feedback-form
 	url = https://github.com/ananddayalan/extjs-by-example-customer-feedback-form.git
+[submodule "extjs-by-example-calculator"]
+	path = extjs-by-example-calculator
+	url = https://github.com/ananddayalan/extjs-by-example-calculator.git
