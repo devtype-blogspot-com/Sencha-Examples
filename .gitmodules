@@ -4,3 +4,6 @@
 [submodule "extjs-by-example-calculator"]
 	path = extjs-by-example-calculator
 	url = https://github.com/ananddayalan/extjs-by-example-calculator.git
+[submodule "extjs-by-example-todo"]
+	path = extjs-by-example-todo
+	url = https://github.com/ananddayalan/extjs-by-example-todo.git
