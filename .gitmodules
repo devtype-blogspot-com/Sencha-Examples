@@ -7,3 +7,6 @@
 [submodule "extjs-by-example-todo"]
 	path = extjs-by-example-todo
 	url = https://github.com/ananddayalan/extjs-by-example-todo.git
+[submodule "extjs-by-example-company-directory"]
+	path = extjs-by-example-company-directory
+	url = https://github.com/ananddayalan/extjs-by-example-company-directory.git
